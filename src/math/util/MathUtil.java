@@ -15,7 +15,9 @@ public class MathUtil {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello GitHub");
+        // tui muon test xem co dung 5! = 120 ko?
+        long result = util.MathUtility.getFactorial(6);
+        System.out.println("6! = "+ result); 
     }
     
 }
