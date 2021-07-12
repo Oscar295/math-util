@@ -18,6 +18,7 @@ public class MathUtil {
         // tui muon test xem co dung 5! = 120 ko?
         long result = util.MathUtility.getFactorial(6);
         System.out.println("6! = "+ result); 
+        //jnj
     }
     
 }
