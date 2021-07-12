@@ -23,4 +23,5 @@ public class MathUtility {
         return n * getFactorial(n-1); //xong de quy
     }   //con 1 cach khac, dung for nhan doi vao bien product = 1;
         //for 2..n, product = proudct * i;
+        //kjhgfdxcvbnm
 }
